@@ -127,9 +127,7 @@ def main(stdscr):
         if ord(key) == 27:
             break
 
-
 # -------------------------------
 # Entry point for curses program
 # -------------------------------
 wrapper(main)
-
